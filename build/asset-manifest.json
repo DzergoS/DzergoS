@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.js": "/portfolio/dog-race-ui/static/js/main.13652b5b.js",
+    "static/js/787.26be45d4.chunk.js": "/portfolio/dog-race-ui/static/js/787.26be45d4.chunk.js",
+    "static/media/bg.svg": "/portfolio/dog-race-ui/static/media/bg.b9a32a2cc489d6c79f399bd8385d6dff.svg",
+    "static/media/runDog.svg": "/portfolio/dog-race-ui/static/media/runDog.3d42cb40cc5e904177bf4b77756ebb6f.svg",
+    "static/media/dog1.svg": "/portfolio/dog-race-ui/static/media/dog1.461ac578f4818caa39eb1413038e5bbc.svg",
+    "static/media/dog3.svg": "/portfolio/dog-race-ui/static/media/dog3.bc469f6dddc8aa15929141d346466422.svg",
+    "static/media/OlympicStadium.jpg": "/portfolio/dog-race-ui/static/media/OlympicStadium.d21441872a9faa79cea1.jpg",
+    "static/media/dog2.svg": "/portfolio/dog-race-ui/static/media/dog2.b71e24fb35d2ef9237ee16cf09c232e0.svg",
+    "static/media/dog4.svg": "/portfolio/dog-race-ui/static/media/dog4.7e073a3f84d4a457ef474eee7347b09d.svg",
+    "static/media/coin.svg": "/portfolio/dog-race-ui/static/media/coin.c802246fd29f87a16d0d850456110f9f.svg",
+    "static/media/logo.svg": "/portfolio/dog-race-ui/static/media/logo.f6893acf26f2cf2591b305595f5f7707.svg",
+    "static/media/dog-player.svg": "/portfolio/dog-race-ui/static/media/dog-player.e630bc5fbbc9dfdf935d899ab057b1e6.svg",
+    "static/media/inRace.svg": "/portfolio/dog-race-ui/static/media/inRace.aba3ef2eb7f1427eb4e77fde9360e7d8.svg",
+    "static/media/medal.svg": "/portfolio/dog-race-ui/static/media/medal.20b6ced97a8a0de027aaaeead8503449.svg",
+    "static/media/banner-cross.svg": "/portfolio/dog-race-ui/static/media/banner-cross.5f194bd22c877875a4a159337f0e988f.svg",
+    "static/media/timer.svg": "/portfolio/dog-race-ui/static/media/timer.30468fd34cedb7547b98c5e5605cdf69.svg",
+    "static/media/emptyDog.svg": "/portfolio/dog-race-ui/static/media/emptyDog.b0db3497344ef0983fe90746e325e51c.svg",
+    "static/media/info.svg": "/portfolio/dog-race-ui/static/media/info.619a120489cc8a48d31a25d75d127e05.svg",
+    "static/media/filter.svg": "/portfolio/dog-race-ui/static/media/filter.6e3528e4da93a91141a0e122e038b314.svg",
+    "static/media/banner-circle.svg": "/portfolio/dog-race-ui/static/media/banner-circle.cc840e3e14d788edb375f60c4549cdfa.svg",
+    "static/media/banner-square.svg": "/portfolio/dog-race-ui/static/media/banner-square.496b5488753a80b7bec2933858d1ac10.svg",
+    "static/media/checkMark.svg": "/portfolio/dog-race-ui/static/media/checkMark.5d3a9270d920e0904d2c5af374e9ef29.svg",
+    "static/media/exit.svg": "/portfolio/dog-race-ui/static/media/exit.0583a3f049cd6f0653c612db33e0df1e.svg",
+    "static/media/search.svg": "/portfolio/dog-race-ui/static/media/search.836baf22e0f35d288c5ad71dd18a0d12.svg",
+    "index.html": "/portfolio/dog-race-ui/index.html",
+    "static/media/alert.svg": "/portfolio/dog-race-ui/static/media/alert.4c8ef8049a62377788825bbcaee88f3d.svg",
+    "static/media/ArrRight.svg": "/portfolio/dog-race-ui/static/media/ArrRight.f71f34fd8e16075ad7d38353fd6fbfcd.svg",
+    "static/media/WhiteArrow.svg": "/portfolio/dog-race-ui/static/media/WhiteArrow.eb80680aa94461cfede1437768766d46.svg",
+    "static/media/ArrDown.svg": "/portfolio/dog-race-ui/static/media/ArrDown.ba01daa25a23be071ebac9885cf9972f.svg",
+    "static/media/dogBg.svg": "/portfolio/dog-race-ui/static/media/dogBg.569bf7f786dac4e766273223709647af.svg",
+    "static/media/close.svg": "/portfolio/dog-race-ui/static/media/close.d0e37adf8411a2eead7805ab720df073.svg",
+    "main.13652b5b.js.map": "/portfolio/dog-race-ui/static/js/main.13652b5b.js.map",
+    "787.26be45d4.chunk.js.map": "/portfolio/dog-race-ui/static/js/787.26be45d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.13652b5b.js"
+  ]
+}
