@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dzergos" alt="dzergos" /></a> </p>
 
+<img align="right" width="400" src='https://i.pinimg.com/originals/f2/23/17/f22317221f8cc25a60e2b22b418c14c8.gif' alt='banner'/>
+
 <p align="left"> <a href="https://twitter.com/shmoneytoken" target="blank"><img src="https://img.shields.io/twitter/follow/shmoneytoken?logo=twitter&style=for-the-badge" alt="shmoneytoken" /></a> </p>
 
 - 🔭 I’m currently working on [SHTOR - online shop](https://shtor.com.ua/)
 
-- 🌱 I’m currently learning **OpenAI API, PyTorch, Microsoft Azure Cognitive Services, Google Cloud AI Platform, Amazon AI Services, IBM Watson APIs**
+- 🌱 I’m currently learning **OpenAI API, Google Cloud AI Platform**
 
 - 👯 I’m looking to collaborate on [MONOPOLY - online game](https://monopolystar.ru/)
 
