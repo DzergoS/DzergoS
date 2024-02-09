@@ -1,71 +1,53 @@
-I'm a versatile FullStack Developer with expertise in Python, Django, and FastAPI. 💻 With a solid background in web development, I specialize in creating robust and scalable applications. My skill set encompasses various technologies such as HTML, CSS, JavaScript, React, Git, Docker, MySQL, MongoDB, and PostgreSQL. 🚀
+<h1 align="center">Hi 👋, I'm Serhii Osipov</h1>
+<h3 align="center">I'm a versatile FullStack Web Developer | SOLIDITY</h3>
 
-COMPANY CyberTim - Web3 team with a strong focus on marketing and development, boasting extensive experience in achieving our clients' goals.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dzergos&label=Profile%20views&color=0e75b6&style=flat" alt="dzergos" /> </p>
 
-We’ve generated 5🍋ROI for our customers with that list of services:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dzergos" alt="dzergos" /></a> </p>
 
-🖋Full-Stack and solidity developers
-🖋market makers(top1)
-🖋KOL’s -English and Asian market
-🖋Listings on 120 exchanges 
-🖋Advisor and consultant services
-🖋Socials - 410k views last post on X and 20k followers
-🖋Portfolio( 15 projects in Web3)
-Partnerships with big influencers (100k-1🍋followers and organic views)
-🖋Content writing
-🖋Shilling
+<p align="left"> <a href="https://twitter.com/shmoneytoken" target="blank"><img src="https://img.shields.io/twitter/follow/shmoneytoken?logo=twitter&style=for-the-badge" alt="shmoneytoken" /></a> </p>
 
-🟢 Why choose me? Here are some reasons:
+- 🔭 I’m currently working on [SHTOR - online shop](https://shtor.com.ua/)
 
-🌟 Comprehensive skill set: I have a wide range of skills, including Python, Django, FastAPI, NodeJS, HTML, CSS, JavaScript, and more.
+- 🌱 I’m currently learning **OpenAI API, PyTorch, Microsoft Azure Cognitive Services, Google Cloud AI Platform, Amazon AI Services, IBM Watson APIs**
 
-🌟 Extensive experience: I have successfully delivered projects utilizing these technologies and have a strong understanding of their best practices.
+- 👯 I’m looking to collaborate on [MONOPOLY - online game](https://monopolystar.ru/)
 
-🌟 Collaboration and version control: I am well-versed in Git and use it effectively for seamless collaboration and version control.
+- 🤝 I’m looking for help with [COINBASE - crypto exchange platform](https://www.coinbase.com/)
 
-🌟 Database expertise: I have hands-on experience working with MySQL, MongoDB, and PostgreSQL, ensuring efficient data management for your applications.
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/serhii-osipov/](https://www.linkedin.com/in/serhii-osipov/)
 
-🌟 Data scraping capabilities: I possess the skills to scrape and extract data from various sources, providing valuable insights for your projects.
+- 📝 I regularly write articles on [https://www.instagram.com/dzergo_s/](https://www.instagram.com/dzergo_s/)
 
-🌟 React proficiency: I am knowledgeable in React and can integrate it into your applications for enhanced user interfaces and interactive experiences.
+- 💬 Ask me about **New NFT project, or launching on launchpad**
 
-🌟 Build and deployment: I utilize tools like webpack, Docker, and GitHub to streamline the development process and ensure smooth deployment.
+- 📫 How to reach me **dzergo.up@gmail.com**
 
-❗️ FrontEnd Stack ❗️
-🍎 React
-🍎 JavaScript
-🍎 TypeScript
-🍎 jQuery
-🍎 HTML
-🍎 CSS
-🍎 webpack
+- 📄 Know about my experiences [https://github.com/DzergoS/DzergoS](https://github.com/DzergoS/DzergoS)
 
-❗️ BackEnd Stack ❗️
-🍓 Python
-🍓 PHP
-🍓 MongoDB
-🍓 MySQL
-🍓 PostgreSQL
-🍓 Django
+- ⚡ Fun fact **Money comes and goes**
 
-❗️ BlockChain Stack ❗️
-🍍 Solidity
-🍍 Hardhat
-🍍 Foundry
-🍍 The Graph
-🍍 Web3.js
-🍍 Ethers
-🍍 OpenZeppelin
-🍍 Solarity
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-🌟 Blockchain Technology Expertise:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/dzergos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dzergos" height="30" width="40" /></a>
+<a href="https://dev.to/dzergos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dzergos" height="30" width="40" /></a>
+<a href="https://twitter.com/shmoneytoken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shmoneytoken" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/serhii osipov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serhii osipov" height="30" width="40" /></a>
+<a href="https://codesandbox.com/dzergos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dzergos" height="30" width="40" /></a>
+<a href="https://fb.com/serhii osipov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="serhii osipov" height="30" width="40" /></a>
+<a href="https://instagram.com/dzergo_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dzergo_s" height="30" width="40" /></a>
+<a href="https://discord.gg/dzergo_2551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dzergo_2551" height="30" width="40" /></a>
+</p>
 
-Diverse blockchain applications including DeFi platforms | NFT marketplaces | Blockchain gaming | Transparent supply chains | DAOs | Asset tokenization
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-❗️ DevOps Stack ❗️
-🍇 Agile & Scrum
-🍇 Docker Compose
-🍇 Kubernetes
-🍇 GitLab
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzergos&show_icons=true&locale=en&layout=compact" alt="dzergos" /></p>
 
-📗 Thank you for considering my profile! If you have any questions or wish to discuss your project requirements, please feel free to reach out. I am available and committed to providing the best solutions for your development needs. 🙌
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzergos&show_icons=true&locale=en" alt="dzergos" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dzergos&" alt="dzergos" /></p>
